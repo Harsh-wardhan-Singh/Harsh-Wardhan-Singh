@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi! I am Harsh a Computer Science Undergraduate who loves to build systems, games and AI and ML models. I enjoy exploring new fields and building something creative and useful with them.
+Hey, I'm Harsh, a CS undergrad currently at Hansraj College.
+
+I like building things with code and seeing what I can do with an idea. I've been exploring everything from backend development and AI/ML to games and simulations, I like to take part in many events such as hackathons, fests and building in public, and I'm always looking for something new to experiment with.
 
 
 ## 🌐 Socials:
